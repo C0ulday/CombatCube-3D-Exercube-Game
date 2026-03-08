@@ -1,0 +1,16 @@
+{
+  "actions": [
+    {
+      "name": "/actions/SDK/in/NewAction",
+      "type": "boolean"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/SDK",
+      "usage": "single"
+    }
+  ],
+  "default_bindings": [],
+  "localization": []
+}

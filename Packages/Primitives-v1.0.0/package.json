@@ -1,0 +1,26 @@
+{
+  "name": "com.koboldgames.primitives",
+  "displayName": "Koboldgames Primitives",
+  "description": "A set of primitive types exposed as shared variables via ScriptableObjects. This library also contains useful helpers and predefined structures for extending upon the principle of shared types.",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "dependencies": {
+    "com.koboldgames.non-null": "2.0.1"
+  },
+  "category": "",
+  "keywords": [
+    "Koboldgames",
+    "Primitives",
+    "ScriptableObject"
+  ],
+  "type": "library",
+  "author": {
+    "name": "Koboldgames GmbH",
+    "email": "contact@koboldgames.ch",
+    "url": "https://koboldgames.ch/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/koboldgames/Primitives.git"
+  }
+}

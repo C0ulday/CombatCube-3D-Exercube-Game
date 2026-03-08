@@ -1,0 +1,15 @@
+{
+    "name": "Koboldgames.Primitives.Runtime",
+    "references": [
+        "Koboldgames.NonNull.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

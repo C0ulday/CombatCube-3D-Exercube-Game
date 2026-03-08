@@ -1,0 +1,27 @@
+{
+  "name": "com.koboldgames.non-null",
+  "displayName": "Koboldgames Non-Null",
+  "description": "Includes the [NonNull] attribute for fields or classes, which allows visual indication in the editor that a reference is unassigned, and errors when starting the game or building the player. Also includes [AllowNull] for fields in [NonNull] classes that can be unassigned. Advanced fork from 'co.northplay.nonnull'.",
+  "version": "2.0.1",
+  "unity": "2018.1",
+  "dependencies": {
+    "com.unity.settings-manager": "1.0.1"
+  },
+  "keywords": [
+    "attribute",
+    "null",
+    "nonnull",
+    "editor"
+  ],
+  "author": {
+    "name": "Koboldgames GmbH",
+    "email": "contact@koboldgames.ch",
+    "url": "https://koboldgames.ch/"
+  },
+  "license": "MIT",
+  "category": "editor",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/koboldgames/NonNull.git"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "displayName": "Front",
+    "targetDisplay": 0,
+    "cameraRect": {
+        "serializedVersion": "2",
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+    }
+}

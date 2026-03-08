@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42963f4ce81eca1fdb665f8b50971f5d, type: 3}
+  m_Name: ViveValidationActive
+  m_EditorClassIdentifier: 
+  description: Indicates (and toggles) if the Vive tracker validation is running.
+    Lets the PoseTracker logic periodically check the validity flag of the SteamVR
+    API.
+  value: 0
+  initialValue: 0
